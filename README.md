@@ -10,7 +10,7 @@
 </p>
 
 ## Introduction
-This is a fork of ucanlab repo.  I created a Tutorial for Linux Installation here: [https://www.youtube.com/watch?v=ZKUn6oqiwSc]([https://www.youtube.com/watch?v=ZKUn6oqiwSc)
+This is a fork of ucanlab repo.  I created a Tutorial for Linux Installation here: [https://www.youtube.com/watch?v=ZKUn6oqiwSc](https://www.youtube.com/watch?v=ZKUn6oqiwSc)
 Build a simple laravel development environment with docker-compose. Compatible with Windows(WSL2), macOS(M1) and Linux.
 
 ## Usage
